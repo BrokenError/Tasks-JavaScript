@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/520b9d2ad5c005041100000f
+
 function pigIt(str){
   str = str.split(' ')
   for (let i = 0; i < str.length; i++)

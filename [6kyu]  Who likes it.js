@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+
 function likes(names) {
   let len_names = names.length
   if (len_names == 0)
